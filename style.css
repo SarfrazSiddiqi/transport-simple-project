@@ -315,6 +315,7 @@ button.normal {
   letter-spacing: 0.72px;
   color: #ffffff;
   opacity: 1;
+  cursor: pointer;
 }
 
 
